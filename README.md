@@ -1,2 +1,2 @@
 # mood
-Identificar estado de ánimo
+Script para identificar estado de ánimo
